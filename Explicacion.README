@@ -1,0 +1,7 @@
+solo para aclarar no logre aplicar la cotizacion para el conyuge y los hijos, solo logre hacerlo para el asegurado con sus distintos rangos de edades(cliente)
+bueno dicho esto segun entendi quieren que explique con mis palabras como debia ser el proyecto. bueno el proyecto consiste en crear un programa
+para aplicar distintos recargos de cotizaciones segun la edad del asegurado y del conyuge (que debian ser aplicados solo en caso de ser mayor de edad "18")
+pero con los hijos el recargo seria aplicado con la cantidad de hijos que tuviera el asegurado que debia ser de un 20% por cada uno sobre el precio base 2000
+en el caso de la edades el recargo variaba segun la edad es decir que de los 18 hasta los 25 se aplicaba un recargo del 10%, de los 25 hasta los 50 el recargo es del 20%
+de los 50 hasta los 100 se aplicaria un 30% de recargo. una vez que ingresara todos esos datos el programa de cotizaciones tenia sumar el total de
+todo lo que ingresara sobre el precio base y darme una cotizacion final basado en todo lo anteriormente dicho.
